@@ -13,8 +13,12 @@ A smart and interactive Discord chatbot built using Python that leverages AI-pow
    GENERATIVEAI_API_KEY=your_google_generative_ai_api_key_here
 
 6. Bot Commands
+   
    ,ask [your prompt]
+   
    ,poll [question] [option1] [option2] ...
+   
    ,report 123 Spam message in general channel
+   
    ,trivia
 

@@ -22,3 +22,4 @@ A smart and interactive Discord chatbot built using Python that leverages AI-pow
    
    ,trivia
 
+* The bot.log file records errors and command issues to help with debugging and maintaining the bot's stability. *
